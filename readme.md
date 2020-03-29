@@ -14,11 +14,11 @@ This is an R package for covid-19 data trend visualizationa. This package used l
 ## Installation
 
 You can install the development version of covid_dashboard from
-[GitHub](https://github.com/rahulchauhan049/covidDashboard) with:
+[GitHub](https://github.com/Anshu883/covidDashboard) with:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("rahulchauhan049/covidDashboard")
+devtools::install_github("Anshu883/covidDashboard")
 ```
 
 ```r
